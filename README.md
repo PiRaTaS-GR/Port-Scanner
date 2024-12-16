@@ -18,12 +18,12 @@ This simple and fast port scanner allows you to check if ports are open or close
     git clone https://github.com/PiRaTaS-GR/Port-Scanner.git
     ```
 
-2. **Install Pyfiglet** (if not already installed):
+2. **Install Pyfiglet**:
     ```bash
     pip install colorama pyfiglet
     ```
 
-3. **Install Colorama** (if not already installed):
+3. **Install Colorama**:
     ```bash
     pip install colorama
     ```
