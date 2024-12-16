@@ -11,8 +11,12 @@ init()
 logo = pyfiglet.figlet_format("PiRaTaS-GR")
 print(Fore.LIGHTBLUE_EX + logo)
 
+print(Fore.LIGHTBLUE_EX + "For contact, email: piratas.gr@proton.me\n", end=Fore.RESET)
 
-print(Fore.RED + "For contact, email: piratas.gr@proton.me\n", end=Fore.RESET)
+
+logo2 = pyfiglet.figlet_format("Port-Scanner")
+print(Fore.RED + logo2)
+
 print(Fore.YELLOW + "\n")
 
 
