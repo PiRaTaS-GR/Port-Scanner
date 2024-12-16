@@ -28,12 +28,12 @@ This simple and fast port scanner allows you to check if ports are open or close
     python start.py
     ```
 
-8. **Follow the prompts**: The script will ask you to enter the domain or IP you want to check, and it will return the status of each port.
+4. **Follow the prompts**: The script will ask you to enter the domain or IP you want to check, and it will return the status of each port.
 
     - Input domain or IP, e.g. `example.com` or `192.168.1.1`.
     - The script will then check all the ports (1-65535) for open ports.
 
-9. **Want to scan again?**: After the scan, the program will ask if you want to check another domain/IP. Type **yes** to continue, or **no** to exit.
+5. **Want to scan again?**: After the scan, the program will ask if you want to check another domain/IP. Type **yes** to continue, or **no** to exit.
 
 ## Example Output 📊
 
