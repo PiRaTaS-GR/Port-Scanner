@@ -17,6 +17,10 @@ This simple and fast port scanner allows you to check if ports are open or close
     ```bash
     git clone https://github.com/PiRaTaS-GR/Port-Scanner.git
     ```
+1. **Navigate to the Folder**:
+    ```bash
+      cd Port-Scanner
+    ```
 
 2. **Install Pyfiglet**:
     ```bash
