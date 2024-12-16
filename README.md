@@ -17,31 +17,39 @@ This simple and fast port scanner allows you to check if ports are open or close
     ```bash
     git clone https://github.com/PiRaTaS-GR/Port-Scanner.git
     ```
-1. **Navigate to the Folder**:
+2. **Navigate to the Folder**:
     ```bash
       cd Port-Scanner
     ```
+3. **Create Virtual Environment**:
+    ```bash
+      python3 -m venv myenv
+    ```
+4. **Activate the Virtual Environment**:
+    ```bash
+      source myenv/bin/activate
+    ```
 
-2. **Install Pyfiglet**:
+5. **Install Pyfiglet**:
     ```bash
     pip install colorama pyfiglet
     ```
 
-3. **Install Colorama**:
+6. **Install Colorama**:
     ```bash
     pip install colorama
     ```
-4. **Run the script**:
+7. **Run the script**:
     ```bash
     python port_scanner.py
     ```
 
-5. **Follow the prompts**: The script will ask you to enter the domain or IP you want to check, and it will return the status of each port.
+8. **Follow the prompts**: The script will ask you to enter the domain or IP you want to check, and it will return the status of each port.
 
     - Input domain or IP, e.g. `example.com` or `192.168.1.1`.
     - The script will then check all the ports (1-65535) for open ports.
 
-6. **Want to scan again?**: After the scan, the program will ask if you want to check another domain/IP. Type **yes** to continue, or **no** to exit.
+9. **Want to scan again?**: After the scan, the program will ask if you want to check another domain/IP. Type **yes** to continue, or **no** to exit.
 
 ## Example Output 📊
 
