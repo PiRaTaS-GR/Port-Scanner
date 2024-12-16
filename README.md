@@ -32,7 +32,7 @@ This simple and fast port scanner allows you to check if ports are open or close
 
 5. **Install Pyfiglet**:
     ```bash
-   pip install colorama pyfiglet
+   pip install pyfiglet
     ```
 
 6. **Install Colorama**:
