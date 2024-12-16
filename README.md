@@ -19,20 +19,20 @@ This simple and fast port scanner allows you to check if ports are open or close
     ```
 2. **Navigate to the Folder**:
     ```bash
-      cd Port-Scanner
+   cd Port-Scanner
     ```
 3. **Create Virtual Environment**:
     ```bash
-      python3 -m venv myenv
+   python3 -m venv myenv
     ```
 4. **Activate the Virtual Environment**:
     ```bash
-      source myenv/bin/activate
+   source myenv/bin/activate
     ```
 
 5. **Install Pyfiglet**:
     ```bash
-    pip install colorama pyfiglet
+   pip install colorama pyfiglet
     ```
 
 6. **Install Colorama**:
