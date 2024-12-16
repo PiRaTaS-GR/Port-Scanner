@@ -1,4 +1,4 @@
-# PiRaTaS-GR Port Scanner 🏴‍☠️ 
+# PiRaTaS-GR Port Scanner 🏴‍☠️  
 
 Welcome to the **PiRaTaS-GR Port Scanner** project! 🎉
 
