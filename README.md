@@ -41,7 +41,7 @@ This simple and fast port scanner allows you to check if ports are open or close
     ```
 7. **Run the script**:
     ```bash
-    python port_scanner.py
+    python start.py
     ```
 
 8. **Follow the prompts**: The script will ask you to enter the domain or IP you want to check, and it will return the status of each port.
